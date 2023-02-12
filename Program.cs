@@ -11,9 +11,11 @@ namespace c_sharp
  
         static public void Main(String[] args)
         {
-            DecodeMessage_2325 d = new DecodeMessage_2325();
-            Console.WriteLine(d.DecodeMessage("eljuxhpwnyrdgtqkviszcfmabo", "zwx hnfx lqantp mnoeius ycgk vcnjrdb"));
-            Console
+            MaximalSquare_221 m = new MaximalSquare_221();
+            char[][] chars = new char[2][];
+            chars[0] = new char[2];
+            chars[1] = new char[2];
+            m.MaximalSquare(chars);
         }
 
         /*

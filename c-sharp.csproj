@@ -50,6 +50,7 @@
     <Compile Include="ConvertTemp_2469.cs" />
     <Compile Include="EarnDelete_740.cs" />
     <Compile Include="IsSameTree_100.cs" />
+    <Compile Include="MaximalSquare_221.cs" />
     <Compile Include="MaxScore_1770.cs" />
     <Compile Include="NthTribonacci_1137.cs" />
     <Compile Include="NumArithmaticTriplet_2367.cs" />
