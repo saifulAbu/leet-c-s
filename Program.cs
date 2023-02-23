@@ -11,11 +11,9 @@ namespace c_sharp
  
         static public void Main(String[] args)
         {
-            MaximalSquare_221 m = new MaximalSquare_221();
-            char[][] chars = new char[2][];
-            chars[0] = new char[2];
-            chars[1] = new char[2];
-            m.MaximalSquare(chars);
+            MinDifficulty_1335 m = new MinDifficulty_1335();
+            int[] jobDiff = { 6, 5, 7, 3, 2, 1};
+            m.MinDifficulty(jobDiff, 2);
         }
 
         /*

@@ -52,6 +52,7 @@
     <Compile Include="IsSameTree_100.cs" />
     <Compile Include="MaximalSquare_221.cs" />
     <Compile Include="MaxScore_1770.cs" />
+    <Compile Include="MinDifficulty_1335.cs" />
     <Compile Include="NthTribonacci_1137.cs" />
     <Compile Include="NumArithmaticTriplet_2367.cs" />
     <Compile Include="RangeSumBST_938.cs" />
