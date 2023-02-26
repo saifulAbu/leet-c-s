@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoinExchange_322.cs" />
     <Compile Include="CountAsteris_2315.cs" />
     <Compile Include="CountDigit_2520.cs" />
     <Compile Include="CountItemsMatching_1773.cs" />

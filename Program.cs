@@ -11,9 +11,11 @@ namespace c_sharp
  
         static public void Main(String[] args)
         {
-            MinDifficulty_1335 m = new MinDifficulty_1335();
-            int[] jobDiff = { 6, 5, 7, 3, 2, 1};
-            m.MinDifficulty(jobDiff, 2);
+            CoinExchange_322 m = new CoinExchange_322();
+            int[] coins = {2, 3};
+            int res = m.CoinChange(coins, 3);
+
+            Console.WriteLine("result : " + res);
         }
 
         /*
