@@ -8,12 +8,13 @@ namespace c_sharp
 {
     internal class Program
     {
- 
+
         static public void Main(String[] args)
         {
-            CoinExchange_322 m = new CoinExchange_322();
-            int[] coins = {2, 3};
-            int res = m.CoinChange(coins, 3);
+            List<string> words = new List<string> {"as", "asas"};
+            string str = "asast";
+            WordBreak_139 wb = new WordBreak_139();
+            bool res = wb.WordBreak(str, words);
 
             Console.WriteLine("result : " + res);
         }
