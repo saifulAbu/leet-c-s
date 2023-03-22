@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BestTimeToTradeShare_188.cs" />
     <Compile Include="CoinExchange_322.cs" />
     <Compile Include="CountAsteris_2315.cs" />
     <Compile Include="CountDigit_2520.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="ConvertTemp_2469.cs" />
     <Compile Include="EarnDelete_740.cs" />
     <Compile Include="IsSameTree_100.cs" />
+    <Compile Include="LongestIncreasing_300.cs" />
     <Compile Include="MaximalSquare_221.cs" />
     <Compile Include="MaxScore_1770.cs" />
     <Compile Include="MinDifficulty_1335.cs" />

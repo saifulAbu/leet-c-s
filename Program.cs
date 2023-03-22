@@ -11,10 +11,10 @@ namespace c_sharp
 
         static public void Main(String[] args)
         {
-            List<string> words = new List<string> {"as", "asas"};
-            string str = "asast";
-            WordBreak_139 wb = new WordBreak_139();
-            bool res = wb.WordBreak(str, words);
+            int[] prices = { 48, 12, 60, 93, 97, 42, 25, 64, 17, 56, 85, 93, 9, 48, 52, 42, 58, 85, 81, 84, 69, 36, 1, 54, 23, 15, 72, 15, 11, 94 };
+            int k = 11;
+            BestTimeToTradeShare_188 prblm = new BestTimeToTradeShare_188();
+            int res = prblm.MaxProfit(k, prices);
 
             Console.WriteLine("result : " + res);
         }
