@@ -17,6 +17,12 @@ namespace c_sharp
             int res = prblm.MaxProfit(k, prices);
 
             Console.WriteLine("result : " + res);
+
+            string s = "e188:00:00.0 Ethernet controller: Intel Corporation 82599EB 10 Gigabit Unprogrammed (rev 05)\r\n";
+
+            Console.WriteLine(s.Contains("Ethernet controller: Intel Corporation 82599EB 10 Gigabit Unprogrammed"));
+
+            Console.WriteLine(s.Contains("MEthernet controller: Intel Corporation 82599EB 10 Gigabit Unprogrammed"));
         }
 
         /*
