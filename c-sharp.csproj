@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="485_max_conseq.cs" />
     <Compile Include="BestTimeToTradeShare_188.cs" />
     <Compile Include="CoinExchange_322.cs" />
     <Compile Include="CountAsteris_2315.cs" />
