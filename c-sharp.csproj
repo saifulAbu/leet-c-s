@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1089_dup_zero.cs" />
     <Compile Include="1295_find_even_digits.cs" />
     <Compile Include="485_max_conseq.cs" />
+    <Compile Include="977_squares_of_sorted_array.cs" />
     <Compile Include="BestTimeToTradeShare_188.cs" />
     <Compile Include="CoinExchange_322.cs" />
     <Compile Include="CountAsteris_2315.cs" />
