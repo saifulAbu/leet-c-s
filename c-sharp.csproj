@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="1089_dup_zero.cs" />
     <Compile Include="1295_find_even_digits.cs" />
+    <Compile Include="26_RemoveDupsSortedArr.cs" />
+    <Compile Include="27_RemoveElements.cs" />
     <Compile Include="485_max_conseq.cs" />
     <Compile Include="88_MergeSortedArray.cs" />
     <Compile Include="977_squares_of_sorted_array.cs" />
